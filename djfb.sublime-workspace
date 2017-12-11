@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"userMenu"
+			],
+			[
+				"as",
+				"as_view\tfunction"
+			],
+			[
+				"aut",
+				"auth_views\tmodule"
+			],
+			[
+				"E",
+				"EmailInput\tclass"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"glo",
+				"globalclean\tstatement"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"UserC",
+				"UserCreationForm\tclass"
+			],
+			[
+				"a",
+				"auth\tmodule"
+			],
+			[
+				"acc",
+				"accounts_views\tmodule"
+			],
+			[
+				"tex",
+				"text-danger"
+			],
+			[
+				"Text",
+				"TextInput\tclass"
+			],
+			[
+				"boa",
+				"board_topics\tfunction"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"class",
+				"class\tkeyword"
+			],
+			[
+				"C",
+				"CharField\tclass"
+			],
+			[
+				"for",
+				"forms\tmodule"
+			],
+			[
+				"Mode",
+				"ModelForm\tclass"
+			],
+			[
+				"Mo",
+				"ModelForm\tModelForm"
+			],
+			[
+				"__s",
+				"__str__\tfunction"
+			],
+			[
+				"board",
+				"board_topics"
+			],
+			[
+				"boar",
+				"board"
+			],
+			[
+				"asser",
+				"assertContains\tfunction"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"view",
+				"view\tstatement"
+			],
+			[
+				"reso",
+				"resolve\tfunction"
+			],
+			[
+				"H",
+				"Http404\tclass"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"get",
+				"get_object_or_404\tfunction"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"b",
+				"board_topics\tfunction"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"S",
+				"STATIC_ROOT"
+			],
+			[
+				"BA",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"STATIC",
+				"STATIC_ROOT"
+			],
+			[
+				"ST",
+				"STATICFILES_DIRS"
+			],
+			[
+				"f",
+				"func\tstatement"
+			],
+			[
+				"c",
+				"core\tmodule"
+			],
+			[
+				"TEMP",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"cone",
+				"context\tstatement"
+			],
+			[
+				"contex",
+				"context\tparam"
+			],
+			[
+				"bo",
+				"board\tstatement"
+			],
+			[
+				"m",
+				"models\tmodule"
+			],
+			[
+				"url",
+				"url\tfunction"
+			],
+			[
+				"si",
+				"site\tinstance"
+			],
+			[
+				"upda",
+				"updated_at\tstatement"
+			],
+			[
+				"creat",
+				"created_at\tstatement"
+			],
+			[
+				"max",
+				"max_length\tparam"
+			],
+			[
+				"T",
+				"True\tinstance"
+			],
+			[
+				"auto",
+				"auto_now_add\tparam"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"Model",
+				"Model\tclass"
+			],
+			[
+				"con",
+				"contrib\tmodule"
+			],
+			[
+				"I",
+				"Iyede\tclass"
+			],
+			[
+				"vi",
+				"views\tmodule"
+			],
+			[
+				"d",
+				"db\tmodule"
+			],
+			[
+				"todo",
+				"todo-item"
+			],
+			[
+				"clic",
+				"clickMsg"
+			],
+			[
+				"butt",
+				"buttonClick"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Display object docs"
+			],
+			[
+				"package control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 427.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abduladi/Desktop/djfb",
+		"/Users/abduladi/Desktop/djfb/blog_app",
+		"/Users/abduladi/Desktop/djfb/greetings"
+	],
+	"file_history":
+	[
+		"/Users/abduladi/Desktop/djfb/blog_app/views.py",
+		"/Users/abduladi/Desktop/sibtc/templates/signup.html",
+		"/Users/abduladi/Desktop/sibtc/static/js/jquery-3.2.1.min.js",
+		"/Users/abduladi/Desktop/sibtc/static/js/popper.min.js",
+		"/Users/abduladi/Desktop/sibtc/static/js/bootstrap.min.js",
+		"/Users/abduladi/Desktop/sibtc/accounts/forms.py",
+		"/Users/abduladi/Desktop/sibtc/boards/views.py",
+		"/Users/abduladi/Desktop/sibtc/templates/topics.html",
+		"/Users/abduladi/Desktop/sibtc/templates/base.html",
+		"/Users/abduladi/Desktop/sibtc/boards/forms.py",
+		"/Users/abduladi/Desktop/sibtc/project/settings.py",
+		"/Users/abduladi/Desktop/sibtc/templates/new_topic.html",
+		"/Users/abduladi/Desktop/sibtc/static/css/accounts.css",
+		"/Users/abduladi/Desktop/sibtc/templates/home.html",
+		"/Users/abduladi/Desktop/sibtc/boards/models.py",
+		"/Users/abduladi/Desktop/sibtc/venv/lib/python3.6/site-packages/widget_tweaks/templatetags/widget_tweaks.py",
+		"/Users/abduladi/Desktop/sibtc/venv/lib/python3.6/site-packages/raven/contrib/django/models.py",
+		"/Users/abduladi/Desktop/sibtc/venv/lib/python3.6/site-packages/raven/contrib/django/raven_compat/models.py",
+		"/Users/abduladi/Desktop/sibtc/static/css/app.css",
+		"/Users/abduladi/Desktop/sibtc/boards/tests.py",
+		"/Users/abduladi/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/abduladi/Desktop/sibtc/project/urls.py",
+		"/Users/abduladi/Desktop/sibtc/boards/admin.py",
+		"/Users/abduladi/Desktop/sibtc/boards/abc.py",
+		"/Users/abduladi/Desktop/sibtc/templates/boards/base.html",
+		"/Users/abduladi/Desktop/sibtc/sibtcProject"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djfb.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

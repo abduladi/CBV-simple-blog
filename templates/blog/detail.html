@@ -1,0 +1,20 @@
+{% extends 'blog/base.html' %}
+
+
+{% block content %}
+
+    <div class="post-entry">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.text }}</p>
+    </div>
+    {% if user.is_authenticated %}
+    	{% if object.author == user %}
+    		<p><a href="{% url 'post-edit' post.pk %}">+ Edit Blog Post</a></p>
+    		<p><a href="{% url 'post-delete' post.pk %}">+ Delete Blog Post</a></p>
+    	{% endif %}
+    	
+    {% else %}
+    	<p><a href="{% url 'post-list' %}">+ Back to blog list</a></p>
+    {% endif %}
+    
+{% endblock %}
